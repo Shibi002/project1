@@ -1,0 +1,3 @@
+Profile
+
+Motivated web developer with a solid understanding of HTML, CSS, and JavaScript, along with familiarity in frameworks like React and Node.js. Recently completed a [degree/certification] in [relevant field], showcasing skills through personal projects and internships. Passionate about creating intuitive and responsive web applications, with strong problem-solving abilities and a commitment to learning new technologies. Eager to contribute to a dynamic team and deliver high-quality digital solutions.

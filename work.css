@@ -1,0 +1,76 @@
+.inbox{
+    background-color: aquamarine;
+    height: 200px;
+    margin: 10px 0px;
+    margin: left 50px; 
+}
+.inbox1{
+    background-color: coral;
+    height: 200px;
+    margin: 10px 0px;
+}
+.inbox2{
+    background-color: darkolivegreen;
+    height: 200px;
+    margin: 30px 0px;
+    text-align: center;
+    color: darkorchid;
+}
+.inbox3{
+    background-color:darkkhaki;
+    height: 200px;
+    margin: 30px 0px;
+}
+.inbox4{
+    background-color: hotpink;
+    height: 200px;
+}
+.inbox5{
+    background-color:chocolate;
+    height: 200px;
+}
+.inbox6{
+    background-color:crimson;
+    height: 200px;
+}
+.inbox7{
+    background-color:lightcoral;
+    height: 200px;}
+.inbox11{
+/* background-color: lightblue; */
+height: 200px;
+margin: 20px 0px;
+text-align: center;
+color: fuchsia;
+}
+.box1{
+    margin: 50px;
+    padding-top: 35px;
+    display: inline-block;
+}
+.sec5{
+    background-image: url(car.jpg);
+    background-size: auto;
+    margin: 50px;
+}
+.sec1{
+    margin: 50px;
+}
+.sec2{
+    margin: 50px;
+}
+.sec3{
+    margin: 50px;
+}
+.b1{
+    text-align: center;
+    color: darkred;
+}
+.b2{
+    text-align: center;
+    color: hotpink;
+}
+.p1{
+    color: palevioletred;
+    font-family: 'Calibri';
+}
